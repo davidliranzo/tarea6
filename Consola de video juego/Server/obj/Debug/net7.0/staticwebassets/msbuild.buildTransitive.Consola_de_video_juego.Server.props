@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Consola_de_video_juego.Server.props" />
+</Project>

@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eduardo\\source\\repos\\Consola de video juego\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56A18F82-B8A1-4568-B3BB-DCB4440B864E}|Consola de video juego\\Client\\Consola de video juego.Client.csproj|c:\\users\\eduardo\\source\\repos\\consola de video juego\\consola de video juego\\client\\pages\\registrovideojuegos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56A18F82-B8A1-4568-B3BB-DCB4440B864E}|Consola de video juego\\Client\\Consola de video juego.Client.csproj|solutionrelative:consola de video juego\\client\\pages\\registrovideojuegos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A18F82-B8A1-4568-B3BB-DCB4440B864E}|Consola de video juego\\Client\\Consola de video juego.Client.csproj|c:\\users\\eduardo\\source\\repos\\consola de video juego\\consola de video juego\\client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56A18F82-B8A1-4568-B3BB-DCB4440B864E}|Consola de video juego\\Client\\Consola de video juego.Client.csproj|solutionrelative:consola de video juego\\client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A18F82-B8A1-4568-B3BB-DCB4440B864E}|Consola de video juego\\Client\\Consola de video juego.Client.csproj|c:\\users\\eduardo\\source\\repos\\consola de video juego\\consola de video juego\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A18F82-B8A1-4568-B3BB-DCB4440B864E}|Consola de video juego\\Client\\Consola de video juego.Client.csproj|solutionrelative:consola de video juego\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A18F82-B8A1-4568-B3BB-DCB4440B864E}|Consola de video juego\\Client\\Consola de video juego.Client.csproj|c:\\users\\eduardo\\source\\repos\\consola de video juego\\consola de video juego\\client\\pages\\personajes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56A18F82-B8A1-4568-B3BB-DCB4440B864E}|Consola de video juego\\Client\\Consola de video juego.Client.csproj|solutionrelative:consola de video juego\\client\\pages\\personajes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A18F82-B8A1-4568-B3BB-DCB4440B864E}|Consola de video juego\\Client\\Consola de video juego.Client.csproj|c:\\users\\eduardo\\source\\repos\\consola de video juego\\consola de video juego\\client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56A18F82-B8A1-4568-B3BB-DCB4440B864E}|Consola de video juego\\Client\\Consola de video juego.Client.csproj|solutionrelative:consola de video juego\\client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A18F82-B8A1-4568-B3BB-DCB4440B864E}|Consola de video juego\\Client\\Consola de video juego.Client.csproj|c:\\users\\eduardo\\source\\repos\\consola de video juego\\consola de video juego\\client\\services\\personajeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A18F82-B8A1-4568-B3BB-DCB4440B864E}|Consola de video juego\\Client\\Consola de video juego.Client.csproj|solutionrelative:consola de video juego\\client\\services\\personajeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A18F82-B8A1-4568-B3BB-DCB4440B864E}|Consola de video juego\\Client\\Consola de video juego.Client.csproj|c:\\users\\eduardo\\source\\repos\\consola de video juego\\consola de video juego\\client\\models\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A18F82-B8A1-4568-B3BB-DCB4440B864E}|Consola de video juego\\Client\\Consola de video juego.Client.csproj|solutionrelative:consola de video juego\\client\\models\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A18F82-B8A1-4568-B3BB-DCB4440B864E}|Consola de video juego\\Client\\Consola de video juego.Client.csproj|c:\\users\\eduardo\\source\\repos\\consola de video juego\\consola de video juego\\client\\pages\\plataformas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56A18F82-B8A1-4568-B3BB-DCB4440B864E}|Consola de video juego\\Client\\Consola de video juego.Client.csproj|solutionrelative:consola de video juego\\client\\pages\\plataformas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A18F82-B8A1-4568-B3BB-DCB4440B864E}|Consola de video juego\\Client\\Consola de video juego.Client.csproj|c:\\users\\eduardo\\source\\repos\\consola de video juego\\consola de video juego\\client\\services\\plataformaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A18F82-B8A1-4568-B3BB-DCB4440B864E}|Consola de video juego\\Client\\Consola de video juego.Client.csproj|solutionrelative:consola de video juego\\client\\services\\plataformaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A18F82-B8A1-4568-B3BB-DCB4440B864E}|Consola de video juego\\Client\\Consola de video juego.Client.csproj|c:\\users\\eduardo\\source\\repos\\consola de video juego\\consola de video juego\\client\\consola de video juego.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56A18F82-B8A1-4568-B3BB-DCB4440B864E}|Consola de video juego\\Client\\Consola de video juego.Client.csproj|solutionrelative:consola de video juego\\client\\consola de video juego.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A18F82-B8A1-4568-B3BB-DCB4440B864E}|Consola de video juego\\Client\\Consola de video juego.Client.csproj|c:\\users\\eduardo\\source\\repos\\consola de video juego\\consola de video juego\\client\\models\\plataforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A18F82-B8A1-4568-B3BB-DCB4440B864E}|Consola de video juego\\Client\\Consola de video juego.Client.csproj|solutionrelative:consola de video juego\\client\\models\\plataforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A18F82-B8A1-4568-B3BB-DCB4440B864E}|Consola de video juego\\Client\\Consola de video juego.Client.csproj|c:\\users\\eduardo\\source\\repos\\consola de video juego\\consola de video juego\\client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56A18F82-B8A1-4568-B3BB-DCB4440B864E}|Consola de video juego\\Client\\Consola de video juego.Client.csproj|solutionrelative:consola de video juego\\client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A18F82-B8A1-4568-B3BB-DCB4440B864E}|Consola de video juego\\Client\\Consola de video juego.Client.csproj|c:\\users\\eduardo\\source\\repos\\consola de video juego\\consola de video juego\\client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56A18F82-B8A1-4568-B3BB-DCB4440B864E}|Consola de video juego\\Client\\Consola de video juego.Client.csproj|solutionrelative:consola de video juego\\client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A18F82-B8A1-4568-B3BB-DCB4440B864E}|Consola de video juego\\Client\\Consola de video juego.Client.csproj|c:\\users\\eduardo\\source\\repos\\consola de video juego\\consola de video juego\\client\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{56A18F82-B8A1-4568-B3BB-DCB4440B864E}|Consola de video juego\\Client\\Consola de video juego.Client.csproj|solutionrelative:consola de video juego\\client\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistroVideojuegos.razor",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Consola de video juego\\Consola de video juego\\Client\\Pages\\RegistroVideojuegos.razor",
+              "RelativeDocumentMoniker": "Consola de video juego\\Client\\Pages\\RegistroVideojuegos.razor",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Consola de video juego\\Consola de video juego\\Client\\Pages\\RegistroVideojuegos.razor",
+              "RelativeToolTip": "Consola de video juego\\Client\\Pages\\RegistroVideojuegos.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T15:32:49.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Consola de video juego\\Consola de video juego\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Consola de video juego\\Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Consola de video juego\\Consola de video juego\\Client\\Program.cs",
+              "RelativeToolTip": "Consola de video juego\\Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:47:33.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Consola de video juego\\Consola de video juego\\Client\\App.razor",
+              "RelativeDocumentMoniker": "Consola de video juego\\Client\\App.razor",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Consola de video juego\\Consola de video juego\\Client\\App.razor",
+              "RelativeToolTip": "Consola de video juego\\Client\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T15:27:36.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Personajes.razor",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Consola de video juego\\Consola de video juego\\Client\\Pages\\Personajes.razor",
+              "RelativeDocumentMoniker": "Consola de video juego\\Client\\Pages\\Personajes.razor",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Consola de video juego\\Consola de video juego\\Client\\Pages\\Personajes.razor",
+              "RelativeToolTip": "Consola de video juego\\Client\\Pages\\Personajes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T15:57:41.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Plataformas.razor",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Consola de video juego\\Consola de video juego\\Client\\Pages\\Plataformas.razor",
+              "RelativeDocumentMoniker": "Consola de video juego\\Client\\Pages\\Plataformas.razor",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Consola de video juego\\Consola de video juego\\Client\\Pages\\Plataformas.razor",
+              "RelativeToolTip": "Consola de video juego\\Client\\Pages\\Plataformas.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T15:47:10.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Personaje.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Consola de video juego\\Consola de video juego\\Client\\Models\\Personaje.cs",
+              "RelativeDocumentMoniker": "Consola de video juego\\Client\\Models\\Personaje.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Consola de video juego\\Consola de video juego\\Client\\Models\\Personaje.cs",
+              "RelativeToolTip": "Consola de video juego\\Client\\Models\\Personaje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:56:22.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Consola de video juego\\Consola de video juego\\Client\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Consola de video juego\\Client\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Consola de video juego\\Consola de video juego\\Client\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Consola de video juego\\Client\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T15:22:48.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlataformaService.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Consola de video juego\\Consola de video juego\\Client\\Services\\PlataformaService.cs",
+              "RelativeDocumentMoniker": "Consola de video juego\\Client\\Services\\PlataformaService.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Consola de video juego\\Consola de video juego\\Client\\Services\\PlataformaService.cs",
+              "RelativeToolTip": "Consola de video juego\\Client\\Services\\PlataformaService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:44:27.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Plataforma.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Consola de video juego\\Consola de video juego\\Client\\Models\\Plataforma.cs",
+              "RelativeDocumentMoniker": "Consola de video juego\\Client\\Models\\Plataforma.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Consola de video juego\\Consola de video juego\\Client\\Models\\Plataforma.cs",
+              "RelativeToolTip": "Consola de video juego\\Client\\Models\\Plataforma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:42:51.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonajeService.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Consola de video juego\\Consola de video juego\\Client\\Services\\PersonajeService.cs",
+              "RelativeDocumentMoniker": "Consola de video juego\\Client\\Services\\PersonajeService.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Consola de video juego\\Consola de video juego\\Client\\Services\\PersonajeService.cs",
+              "RelativeToolTip": "Consola de video juego\\Client\\Services\\PersonajeService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:57:01.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Consola de video juego.Client",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Consola de video juego\\Consola de video juego\\Client\\Consola de video juego.Client.csproj",
+              "RelativeDocumentMoniker": "Consola de video juego\\Client\\Consola de video juego.Client.csproj",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Consola de video juego\\Consola de video juego\\Client\\Consola de video juego.Client.csproj",
+              "RelativeToolTip": "Consola de video juego\\Client\\Consola de video juego.Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T15:42:21.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Consola de video juego\\Consola de video juego\\Client\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "Consola de video juego\\Client\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Consola de video juego\\Consola de video juego\\Client\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "Consola de video juego\\Client\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAwJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-17T15:20:09.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Consola de video juego\\Consola de video juego\\Client\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Consola de video juego\\Client\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Consola de video juego\\Consola de video juego\\Client\\wwwroot\\index.html",
+              "RelativeToolTip": "Consola de video juego\\Client\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-17T15:21:13.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Consola de video juego\\Consola de video juego\\Client\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Consola de video juego\\Client\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Consola de video juego\\Consola de video juego\\Client\\Pages\\Index.razor",
+              "RelativeToolTip": "Consola de video juego\\Client\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T15:19:28.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

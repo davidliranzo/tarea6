@@ -1,0 +1,136 @@
+﻿@page "/personajes"
+
+@inject PersonajeService personajeService
+
+<h1>Registro de Personajes de Videojuego</h1>
+
+<div>
+    <h3>Registrar nuevo personaje</h3>
+    <label>Nombre:</label>
+    <input type="text" @bind="nuevoPersonaje.Nombre" />
+
+    <label>Alias (opcional):</label>
+    <input type="text" @bind="nuevoPersonaje.Alias" />
+
+    <label>Rol en el juego:</label>
+    <input type="text" @bind="nuevoPersonaje.Rol" />
+
+    <label>Habilidad especial (opcional):</label>
+    <input type="text" @bind="nuevoPersonaje.HabilidadEspecial" />
+
+    <label>Arma favorita (opcional):</label>
+    <input type="text" @bind="nuevoPersonaje.ArmaFavorita" />
+
+    <label>Nivel de poder (1-100):</label>
+    <input type="number" @bind="nuevoPersonaje.NivelDePoder" min="1" max="100" />
+
+    <label>Imagen del personaje (URL):</label>
+    <input type="text" @bind="nuevoPersonaje.ImagenUrl" />
+
+    <button @onclick="RegistrarPersonaje">Registrar Personaje</button>
+</div>
+
+<hr />
+
+<h3>Lista de Personajes</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Imagen</th>
+            <th>Nombre</th>
+            <th>Alias</th>
+            <th>Rol</th>
+            <th>Nivel de Poder</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (personajes == null || personajes.Count == 0)
+        {
+            <tr><td colspan="6">No hay personajes registrados.</td></tr>
+        }
+        else
+        {
+            @foreach (var personaje in personajes)
+            {
+                <tr>
+                    <td><img src="@personaje.ImagenUrl" alt="Imagen de @personaje.Nombre" style="width: 50px; height: 50px;" /></td>
+                    <td>@personaje.Nombre</td>
+                    <td>@personaje.Alias</td>
+                    <td>@personaje.Rol</td>
+                    <td>@personaje.NivelDePoder</td>
+                    <td>
+                        <button @onclick="() => EditarPersonaje(personaje.Id)">Editar</button>
+                        <button @onclick="() => EliminarPersonaje(personaje.Id)">Eliminar</button>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+
+@if (personajeEditado != null)
+{
+    <div>
+        <h3>Editar Personaje</h3>
+        <label>Nombre:</label>
+        <input type="text" @bind="personajeEditado.Nombre" />
+
+        <label>Alias (opcional):</label>
+        <input type="text" @bind="personajeEditado.Alias" />
+
+        <label>Rol en el juego:</label>
+        <input type="text" @bind="personajeEditado.Rol" />
+
+        <label>Habilidad especial (opcional):</label>
+        <input type="text" @bind="personajeEditado.HabilidadEspecial" />
+
+        <label>Arma favorita (opcional):</label>
+        <input type="text" @bind="personajeEditado.ArmaFavorita" />
+
+        <label>Nivel de poder (1-100):</label>
+        <input type="number" @bind="personajeEditado.NivelDePoder" min="1" max="100" />
+
+        <label>Imagen del personaje (URL):</label>
+        <input type="text" @bind="personajeEditado.ImagenUrl" />
+
+        <button @onclick="GuardarCambios">Guardar Cambios</button>
+    </div>
+}
+
+@code {
+    private List<Personaje> personajes;
+    private Personaje nuevoPersonaje = new Personaje();
+    private Personaje personajeEditado;
+
+    protected override void OnInitialized()
+    {
+        personajes = personajeService.GetPersonajes();
+    }
+
+    private void RegistrarPersonaje()
+    {
+        personajeService.AddPersonaje(nuevoPersonaje);
+        personajes = personajeService.GetPersonajes();
+        nuevoPersonaje = new Personaje(); // Reseteamos el formulario
+    }
+
+    private void EditarPersonaje(int id)
+    {
+        personajeEditado = personajeService.GetPersonajeById(id);
+    }
+
+    private void GuardarCambios()
+    {
+        personajeService.UpdatePersonaje(personajeEditado);
+        personajes = personajeService.GetPersonajes();
+        personajeEditado = null; // Limpiamos el editor
+    }
+
+    private void EliminarPersonaje(int id)
+    {
+        personajeService.DeletePersonaje(id);
+        personajes = personajeService.GetPersonajes();
+    }
+}

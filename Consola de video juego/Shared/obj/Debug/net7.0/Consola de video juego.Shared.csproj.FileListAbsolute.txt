@@ -1,0 +1,11 @@
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Shared\bin\Debug\net7.0\Consola de video juego.Shared.deps.json
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Shared\bin\Debug\net7.0\Consola de video juego.Shared.dll
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Shared\bin\Debug\net7.0\Consola de video juego.Shared.pdb
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Shared\obj\Debug\net7.0\Consola de video juego.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Shared\obj\Debug\net7.0\Consola de video juego.Shared.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Shared\obj\Debug\net7.0\Consola de video juego.Shared.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Shared\obj\Debug\net7.0\Consola de video juego.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Shared\obj\Debug\net7.0\Consola de video juego.Shared.dll
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Shared\obj\Debug\net7.0\refint\Consola de video juego.Shared.dll
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Shared\obj\Debug\net7.0\Consola de video juego.Shared.pdb
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Shared\obj\Debug\net7.0\ref\Consola de video juego.Shared.dll

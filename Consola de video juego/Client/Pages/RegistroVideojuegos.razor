@@ -1,0 +1,70 @@
+﻿@page "/registrar-videojuego"
+
+<h1>Registro de Videojuegos</h1>
+
+<div class="game-form">
+    <label for="nombre">Nombre del Videojuego:</label>
+    <input type="text" id="nombre" @bind="videojuego.Nombre" />
+
+    <label for="desarrollador">Desarrollador:</label>
+    <input type="text" id="desarrollador" @bind="videojuego.Desarrollador" />
+
+    <label for="plataforma">Plataforma:</label>
+    <select id="plataforma" @bind="videojuego.Plataforma">
+        <option value="">Seleccione una plataforma</option>
+        <option>PC</option>
+        <option>PlayStation</option>
+        <option>Xbox</option>
+        <option>Nintendo Switch</option>
+        <option>Otra</option>
+    </select>
+
+    <label for="genero">Género:</label>
+    <input type="text" id="genero" @bind="videojuego.Genero" />
+
+    <label for="fecha">Fecha de lanzamiento:</label>
+    <input type="date" id="fecha" @bind="videojuego.FechaLanzamiento" />
+
+    <label for="imagen">Imagen de Portada (URL):</label>
+    <input type="text" id="imagen" @bind="videojuego.ImagenPortada" />
+
+    <label for="descripcion">Descripción:</label>
+    <textarea id="descripcion" @bind="videojuego.Descripcion"></textarea>
+
+    <button @onclick="RegistrarVideojuego">Registrar Videojuego</button>
+</div>
+
+@if (juegoRegistrado)
+{
+    <div class="game-details">
+        <h2>Juego Registrado</h2>
+        <p><strong>Nombre:</strong> @videojuego.Nombre</p>
+        <p><strong>Desarrollador:</strong> @videojuego.Desarrollador</p>
+        <p><strong>Plataforma:</strong> @videojuego.Plataforma</p>
+        <p><strong>Género:</strong> @videojuego.Genero</p>
+        <p><strong>Fecha de lanzamiento:</strong> @videojuego.FechaLanzamiento.ToShortDateString()</p>
+        <img src="@videojuego.ImagenPortada" alt="Portada del videojuego" class="game-cover" />
+        <p><strong>Descripción:</strong> @videojuego.Descripcion</p>
+    </div>
+}
+
+@code {
+    private Videojuego videojuego = new Videojuego();
+    private bool juegoRegistrado = false;
+
+    private void RegistrarVideojuego()
+    {
+        juegoRegistrado = true;
+    }
+
+    public class Videojuego
+    {
+        public string Nombre { get; set; }
+        public string Desarrollador { get; set; }
+        public string Plataforma { get; set; }
+        public string Genero { get; set; }
+        public DateTime FechaLanzamiento { get; set; }
+        public string ImagenPortada { get; set; }
+        public string Descripcion { get; set; }
+    }
+}

@@ -1,0 +1,55 @@
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\Consola_de_video_juego.Client.staticwebassets.runtime.json
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\Consola_de_video_juego.Server.staticwebassets.runtime.json
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\Consola_de_video_juego.Server.exe
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\Consola_de_video_juego.Server.deps.json
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\Consola_de_video_juego.Server.runtimeconfig.json
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\Consola_de_video_juego.Server.dll
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\Consola_de_video_juego.Server.pdb
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\Consola de video juego.Shared.dll
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\Consola_de_video_juego.Client.dll
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\Consola_de_video_juego.Client.pdb
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\bin\Debug\net7.0\Consola de video juego.Shared.pdb
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\obj\Debug\net7.0\Consola de video juego.Server.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\obj\Debug\net7.0\Consola de video juego.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\obj\Debug\net7.0\Consola de video juego.Server.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\obj\Debug\net7.0\Consola de video juego.Server.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\obj\Debug\net7.0\Consola de video juego.Server.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\obj\Debug\net7.0\Consola_de_video_juego.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\obj\Debug\net7.0\Consola de video juego.Server.RazorAssemblyInfo.cache
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\obj\Debug\net7.0\Consola de video juego.Server.RazorAssemblyInfo.cs
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\obj\Debug\net7.0\staticwebassets\msbuild.Consola_de_video_juego.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Consola_de_video_juego.Server.props
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Consola_de_video_juego.Server.props
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Consola_de_video_juego.Server.props
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\obj\Debug\net7.0\scopedcss\bundle\Consola_de_video_juego.Server.styles.css
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\obj\Debug\net7.0\Consola .9B4D1542.Up2Date
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\obj\Debug\net7.0\Consola_de_video_juego.Server.dll
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\obj\Debug\net7.0\refint\Consola_de_video_juego.Server.dll
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\obj\Debug\net7.0\Consola_de_video_juego.Server.pdb
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\obj\Debug\net7.0\Consola de video juego.Server.genruntimeconfig.cache
+C:\Users\Eduardo\source\repos\Consola de video juego\Consola de video juego\Server\obj\Debug\net7.0\ref\Consola_de_video_juego.Server.dll

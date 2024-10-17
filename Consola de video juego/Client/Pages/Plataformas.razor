@@ -1,0 +1,106 @@
+﻿@page "/plataformas"
+
+@inject PlataformaService plataformaService
+
+<h1>Gestión de Plataformas</h1>
+
+<div>
+    <h3>Registrar nueva plataforma</h3>
+    <label>Nombre de la plataforma:</label>
+    <input type="text" @bind="nuevaPlataforma.Nombre" />
+
+    <label>Estado:</label>
+    <select @bind="nuevaPlataforma.Activa">
+        <option value="true">Activa</option>
+        <option value="false">Inactiva</option>
+    </select>
+
+    <button @onclick="RegistrarPlataforma">Registrar Plataforma</button>
+</div>
+
+<hr />
+
+<h3>Lista de Plataformas</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Estado</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (plataformas == null || plataformas.Count == 0)
+        {
+            <tr><td colspan="3">No hay plataformas registradas.</td></tr>
+        }
+        else
+        {
+            @foreach (var plataforma in plataformas)
+            {
+                <tr>
+                    <td>@plataforma.Nombre</td>
+                    <td>@(plataforma.Activa ? "Activa" : "Inactiva")</td>
+                    <td>
+                        <button @onclick="() => EditarPlataforma(plataforma.Id)">Editar</button>
+                        <button @onclick="() => EliminarPlataforma(plataforma.Id)">Eliminar</button>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+
+@if (plataformaEditada != null)
+{
+    <div>
+        <h3>Editar Plataforma</h3>
+        <label>Nombre:</label>
+        <input type="text" @bind="plataformaEditada.Nombre" />
+
+        <label>Estado:</label>
+        <select @bind="plataformaEditada.Activa">
+            <option value="true">Activa</option>
+            <option value="false">Inactiva</option>
+        </select>
+
+        <button @onclick="GuardarCambios">Guardar Cambios</button>
+    </div>
+}
+
+@code {
+    private List<Plataforma> plataformas;
+    private Plataforma nuevaPlataforma = new Plataforma();
+    private Plataforma plataformaEditada;
+
+    protected override void OnInitialized()
+    {
+        plataformas = plataformaService.GetPlataformas();
+    }
+
+    private void RegistrarPlataforma()
+    {
+        plataformaService.AddPlataforma(nuevaPlataforma);
+        plataformas = plataformaService.GetPlataformas();
+        nuevaPlataforma = new Plataforma(); // Reseteamos el formulario
+    }
+
+    private void EditarPlataforma(int id)
+    {
+        plataformaEditada = plataformaService.GetPlataformaById(id);
+    }
+
+    private void GuardarCambios()
+    {
+        plataformaService.UpdatePlataforma(plataformaEditada);
+        plataformas = plataformaService.GetPlataformas();
+        plataformaEditada = null; // Limpiamos el editor
+    }
+
+    private void EliminarPlataforma(int id)
+    {
+        plataformaService.DeletePlataforma(id);
+        plataformas = plataformaService.GetPlataformas();
+    }
+}
